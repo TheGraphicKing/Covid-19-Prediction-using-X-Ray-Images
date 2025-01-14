@@ -69,7 +69,7 @@ The COVID-19 pandemic highlighted the need for efficient diagnostic tools. This 
 ---
 
 ## **Contributors**  
-- **[Your Name](https://github.com/your-username)**  
+- **[Navaneetha Krishnan](https://github.com/TheGraphicKing/)**  
 
 ---
 
