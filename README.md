@@ -1,4 +1,4 @@
-# **COVID-19 Prediction Using MRI Images**
+# **COVID-19 Prediction Using X-ray Images**
 
 This project focuses on developing a deep learning model for predicting COVID-19 using X-ray datasets of pneumonia patients. The model leverages advanced architectures such as ResNet, VGG16, and VGG19 to achieve high accuracy and precision, aiding in the early detection of COVID-19 cases.  
 
